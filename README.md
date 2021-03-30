@@ -8,6 +8,7 @@ FROM PC
 WHERE price < 500
 
 
+
 Задание 2
 Найдите производителей принтеров. Вывести: maker
 
@@ -23,11 +24,13 @@ from laptop
 where price>1000
 
 
+
 Задание 4
 Найдите все записи таблицы Printer для цветных принтеров.
 
 SELECT * FROM Printer
 WHERE color = 'y'
+
 
 
 Задание 5
